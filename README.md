@@ -42,8 +42,8 @@ The Gauge Chart quickly shows the weekly washing frequency of the individual.
 
 ## Dashboard in action
 
-![overview]
+![overview](https://github.com/Jeffsfine/plotly-challenge/blob/main/Images/overview.gif)
 
 ### Deployment
 
-The dashboard is deployed publicly on GitHub Pages [here.](Images/overview.gif)
+The dashboard is deployed publicly on GitHub Pages [here.](https://jeffsfine.github.io/plotly-challenge/)
