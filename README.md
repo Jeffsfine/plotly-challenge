@@ -42,8 +42,8 @@ The Gauge Chart quickly shows the weekly washing frequency of the individual.
 
 ## Dashboard in action
 
-
+![overview]
 
 ### Deployment
 
-The dashboard is deployed publicly on GitHub Pages [here.]()
+The dashboard is deployed publicly on GitHub Pages [here.](Images/overview.gif)
